@@ -10,7 +10,7 @@ Compiling: cargo build and ./target/debug/Hunt "options"
 -p --proxy<br>
 -o --output<br>
 
-Execution mode:
-    Hunt -d http://example.com -w wordlistFile.txt 
-    Hunt -d http://example.com -w wordlistFile.txt -p 127.0.0.1:9050
-    Hunt -D example.com -w wordlistFile.txt -o outputFile.txt
+Execution mode:<br><br>
+    Hunt -d http://example.com -w wordlistFile.txt<br>
+    Hunt -d http://example.com -w wordlistFile.txt -p 127.0.0.1:9050<br>
+    Hunt -D example.com -w wordlistFile.txt -o outputFile.txt<br>
