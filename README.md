@@ -1,7 +1,7 @@
 Just one simple tool to enumerate Dirs on websites and subdomains using
 your config DNS(/etc/resolv.conf)<br><br>
 
-Compiling: cargo build => ./target/debug/Hunt "options"
+Compiling: cargo build and ./target/debug/Hunt "options"
 
 -d --directory<br>
 -D --subDomain<br>
