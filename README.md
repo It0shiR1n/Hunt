@@ -1,4 +1,4 @@
-Just one simple tool to enumerate Dirs on websites and subdomains using
+Just a simple tool to enumerate Dirs on websites and subdomains using
 your config DNS(/etc/resolv.conf)<br><br>
 
 Compiling: cargo build and ./target/debug/Hunt "options"
